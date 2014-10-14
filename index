@@ -135,8 +135,8 @@ This is a website where you can practice and improve your endgame tactics. Prepa
 
 </td>
 <td colspan = "2" style = "background-color: #43CD80 ">
-<input type = "image" id = "getPosFrom" value = "Get a New Position" onClick = "setPosPressed();return false;" src = "poss.png" style = "width:200px; height: 50px; margin-top: 7px">
-<input type = "image" id = "getHint" value = "Get Hint" onClick = "hint();return false;" src = "help.png" style = "width:200px; height: 50px; margin-top: 7px; margin-left: 27px">
+<input type = "image" id = "getPosFrom" value = "Get a New Position" onClick = "setPosPressed();return false;" src = "img\poss.png" style = "width:200px; height: 50px; margin-top: 7px">
+<input type = "image" id = "getHint" value = "Get Hint" onClick = "hint();return false;" src = "img\help.png" style = "width:200px; height: 50px; margin-top: 7px; margin-left: 27px">
 
 
 
