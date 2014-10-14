@@ -1,0 +1,10 @@
+1	8/k4ppp/8/K4PPP/8/8/8/8 w - - 7 42	1	8/k4ppp/6P1/K4P1P/8/8/8/8 8/k5pp/6pP/K4P2/8/8/8/8	fxg6 gxh6	0	Move the middle pawn, then the other.
+2	1k6/3Q4/1K6/8/8/8/8/8 w - - 0 1	1	1k1Q4/8/1K6/8/8/8/8/8	?	0	Move the queen for a mate in one.
+3	1k1r4/2R5/KP6/1P6/8/8/8/8 w - - 0 1	1	Rb7	?	0	
+4	8/7P/5K2/8/8/2k5/p7/8 w - - 0 1	1	7Q/8/5K2/8/8/2k5/p7/8 7Q/5K2/8/8/8/2k5/8/q7	a1=Q Kc4	0	Promote, then move the king.
+5	4k3/7R/6K1/8/8/8/8/8 w - - 0 1	1	4k3/7R/5K2/8/8/8/8/8	Kf8	0	Make an L with the Black King. 
+6	8/8/8/8/3Q4/6K1/3p4/3k4 w - - 0 1	1	8/8/8/8/3Q4/8/3p1K2/3k4 8/8/8/8/3Q4/8/3pK3/2k5	Kc1 Kb1	0	Move the King towards the pawn. 
+7	8/pp1p4/k6P/8/PKP5/1P4R1/5r2/8 w - - 0 1	1	8/pp1p4/k6P/8/PKP5/1P5R/5r2/8 5r2/pp1p3P/k7/8/PKP5/1P5R/8/8	Rf8 Rh8	0	Support the white pawn, then push. 
+8	q1r4k/6pp/8/3Q2N1/8/8/6PP/7K w - - 0 1	1	q1r4k/5Npp/8/3Q4/8/8/6PP/7K q1r3k1/6pp/7N/3Q4/8/8/6PP/7K q1r3Qk/6pp/7N/8/8/8/6PP/7K	Kg8 Kh8 Rxg8	0	Night check, double check, Queen check, mate. 
+9	8/8/8/8/5B2/8/4KP2/5n1k w - - 0 1	1	8/8/8/8/5B2/5K2/5P2/5n1k 8/8/8/8/8/5K2/5P1B/7k	Nh2+ Kxh2	0	Move the King so the Knight will be taken. 
+10	3r4/1kbQ4/1q2p3/3p4/3P2p1/pP1N4/P6P/1KR5 w - - 0 1	1	3r4/1kRQ4/1q2p3/3p4/3P2p1/pP1N4/P6P/1K6 3r4/1kqQ4/4p3/2Np4/3P2p1/pP6/P6P/1K6	Qxc7 Kb8	0	The Bishop looks vulnerable. 
